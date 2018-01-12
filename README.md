@@ -1,2 +1,3 @@
 # hello-world
-intro to git
+
+I am a cat-lover that runs on naps.
